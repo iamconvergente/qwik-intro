@@ -73,3 +73,9 @@ pnpm serve
 ```
 
 Then visit [http://localhost:8080/](http://localhost:8080/)
+
+## Static Site Generator (Node.js)
+
+```shell
+pnpm build.server
+```
